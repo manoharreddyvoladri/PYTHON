@@ -1,0 +1,1 @@
+ss =input(" enter the marks of the student")
